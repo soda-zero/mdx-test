@@ -1,0 +1,5 @@
+{
+	 "Imagen": {
+		"prefix": ["!img"],
+		"body": ["<Imagen src='${1:nombre de la imagen}' alt='${2:descripcion de la imagen}' position='${3|left,center,right|}' size='${4|small,medium,full|}' />"],
+}
